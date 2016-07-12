@@ -5,19 +5,17 @@
 octothorpe () {
 
 data="harvest.asc"
-
+subs="parochet.sed"
 proc="cinderella.awk"
 
-if [[ -e $data && -e $proc ]]; then
-
+if [[ -e $data && -e $subs && -e $proc ]]; then
   echo
-    cat $data | awk -f $proc | nl
+    cat -s $data | \
+    sed -f $subs | \
+    awk -f $proc | nl
   echo
-
 else
-
   echo -e "\n\tcheck: $(basename $0)\n"
-
 fi
 
 }
