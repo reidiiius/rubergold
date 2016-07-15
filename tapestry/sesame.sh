@@ -12,7 +12,7 @@ if [[ -e $data && -e $subs && -e $proc ]]; then
   echo
     cat -s $data | \
     sed -f $subs | \
-    awk -f $proc | nl
+    awk -f $proc
   echo
 else
   echo -e "\n\tcheck: $(basename $0)\n"
