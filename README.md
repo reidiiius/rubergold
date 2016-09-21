@@ -1,11 +1,20 @@
 # Rubergold
 Veeblefetzer
 
-### Usage
-From the command line:
+---
 
-    cd tapestry
-    bash sesame.sh
+### Download
+
+    https://github.com/reidiiius/rubergold.git
+
+---
+
+### Usage
+command line
+
+    cd rubergold/tapestry && bash sesame.sh
+
+---
 
 ### Distribution
 MIT License
