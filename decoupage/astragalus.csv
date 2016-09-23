@@ -1,3 +1,4 @@
+
 Ragam,Shadja,Inversion,Accidental
 Bhavapriya,Leo,Venus_Saturn,+6
 Chakravakam,Taurus,ChironSun_Mercury,-6
@@ -166,9 +167,11 @@ Neetimati,Libra,Pluto_Jupiter,+1+5+7
 Neetimati,Libra,Saturn_Ceres,+1+5+7
 Neetimati,Taurus,Pluto_Jupiter,+1+3+4-7
 Neetimati,Taurus,Saturn_Ceres,+1+3+4-7
+Pavani,Cancer,Vesta_Mars,-5bb6
 Pavani,Leo,Vesta_Mars,-5+1+2+6
 Ragavardhini,Pisces,Sun_Uranus,+1+7
 Ragavardhini,Taurus,Sun_Uranus,-3+6
+Raghupriya,Cancer,Pluto_Mars,+2-5bb6
 Raghupriya,Leo,Pluto_Mars,x1+2+6-5
 Ramapriya,Cancer,CeresSun_Saturn,-3-5
 Ramapriya,Cancer,Titan_Moon,-3-5
@@ -180,6 +183,7 @@ Rasikapriya,Taurus,Pluto_Mars,+1+3+4+6
 Ratnangi,Leo,Moon_Mercury,-5
 Rishabhapriya,Cancer,Saturn_Sun,-2-3
 Rishabhapriya,Taurus,Saturn_Sun,+1-3
+Rupavati,Leo,Mercury_ChironMercury,x1+2
 Rupavati,Libra,Mercury_ChironMercury,+1+7-3
 Rupavati,Sagittarius,Mercury_ChironMercury,-2-3+6
 Salagam,Leo,Juno_Mars,-2-5+6
@@ -201,6 +205,7 @@ Subhapantuvarali,Leo,Neptune_Juno,+2+6
 Subhapantuvarali,Leo,Venus_Mars,+2+6
 Subhapantuvarali,Pisces,Neptune_Juno,+2+5-7
 Subhapantuvarali,Pisces,Venus_Mars,+2+5-7
+Sucharitra,Cancer,Venus_Neptune,-2-3+5
 Sucharitra,Pisces,Neptune_Mars,+1+2+7-5
 Sucharitra,Pisces,Venus_Neptune,+1+2+7-5
 Sucharitra,Taurus,Neptune_Mars,-3-4+1+6

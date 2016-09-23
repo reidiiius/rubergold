@@ -1,0 +1,159 @@
+
+  ┌───────────────┬────────────────┐
+  │     Indu      │     Rishi      │
+  ├───────────────┼────────────────┤
+  │   Kanakangi   │    Salagam     │
+  │      j25      │     j25k6      │
+  │   leo(MnHg)   │   leo(MnFe)    │
+  ├───────────────┼────────────────┤
+  │   Ganamurti   │   Jalarnavam   │
+  │     k2j5      │      j5k6      │
+  │   leo(HgHg)   │   leo(AgPb)    │
+  ├───────────────┼────────────────┤
+  │   Manavati    │  Jhalavarali   │
+  │     k12j5     │     k26j5      │
+  │   leo(HgHg)   │   leo(MnFe)    │
+  ├───────────────┼────────────────┤
+  │   Ratnangi    │   Navanetam    │
+  │      j5       │     k16j5      │
+  │   leo(AgHg)   │   leo(TiPb)    │
+  ├───────────────┼────────────────┤
+  │   Vanaspati   │     Pavani     │
+  │     k1j5      │      j5y6      │
+  │   leo(TiHg)   │   can(TiFe)    │
+  ├───────────────┼────────────────┤
+  │   Tanarupi    │   Raghupriya   │
+  │    x1k2j5     │     k2j5y6     │
+  │   leo(HgHg)   │   can(PuFe)    │
+  ├───────────────┼────────────────┤
+  │     Netra     │      Vasu      │
+  ├───────────────┼────────────────┤
+  │   Senavati    │   Gavambodhi   │
+  │      j2       │      j2k6      │
+  │   leo(CuNp)   │   leo(CuNp)    │
+  ├───────────────┼────────────────┤
+  │  Hanumatodi   │   Bhavapriya   │
+  │      n0       │       k6       │
+  │   leo(CuHg)   │   leo(CuPb)    │
+  ├───────────────┼────────────────┤
+  │    Dhenuka    │Subhapantuvarali│
+  │      k2       │      k26       │
+  │   leo(HgHg)   │   leo(CuFe)    │
+  ├───────────────┼────────────────┤
+  │  Natakapriya  │Shadvidhamargini│
+  │      k1       │      k16       │
+  │   leo(SnHg)   │   leo(SnPb)    │
+  ├───────────────┼────────────────┤
+  │  Kokilapriya  │   Suvarnangi   │
+  │      k12      │      j56       │
+  │   leo(HgHg)   │   can(NpFe)    │
+  ├───────────────┼────────────────┤
+  │   Rupavati    │   Divyamani    │
+  │     x1k2      │     k2j56      │
+  │   leo(HgHg)   │   can(PuFe)    │
+  ├───────────────┼────────────────┤
+  │     Agni      │     Brahma     │
+  ├───────────────┼────────────────┤
+  │  Gayakapriya  │  Dhavalambari  │
+  │     j2k5      │     j2k56      │
+  │   leo(MnHg)   │   leo(CuNp)    │
+  ├───────────────┼────────────────┤
+  │Vakulabharanam │  Namanarayani  │
+  │      k5       │      k56       │
+  │   leo(AuHg)   │   leo(CuUr)    │
+  ├───────────────┼────────────────┤
+  │Mayamalavagowla│  Kamavardhini  │
+  │      k25      │      j25       │
+  │   leo(HgHg)   │   can(CuFe)    │
+  ├───────────────┼────────────────┤
+  │  Chakravakam  │   Ramapriya    │
+  │      j6       │      k1j6      │
+  │   Tau(AuHg)   │   tau(AuPb)    │
+  ├───────────────┼────────────────┤
+  │  Suryakantam  │  Gamanasrama   │
+  │      j2       │       j5       │
+  │   sag(HgHg)   │   can(TiFe)    │
+  ├───────────────┼────────────────┤
+  │  Hatakambari  │  Viswambhari   │
+  │     j2k6      │      k2j5      │
+  │   sag(HgHg)   │   can(PuFe)    │
+  ├───────────────┼────────────────┤
+  │     Veda      │      Disi      │
+  ├───────────────┼────────────────┤
+  │Jhankaradhwani │   Syamalangi   │
+  │      j5       │      k2j5      │
+  │   pis(SnAu)   │   pis(PbAu)    │
+  ├───────────────┼────────────────┤
+  │ Natabhairavi  │ Shanmukhapriya │
+  │       n0      │       k2       │
+  │   pis(AgPAu)  │   pis(PbAu)    │
+  ├───────────────┼────────────────┤
+  │   Keeravani   │   Simhendra    │
+  │      k5       │      k25       │
+  │   pis(HgAu)   │   pis(PbAu)    │
+  ├───────────────┼────────────────┤
+  │Kharaharapriya │    Hemavati    │
+  │       n0      │       k5       │
+  │   lib(SnSn)   │   lib(PbSn)    │
+  ├───────────────┼────────────────┤
+  │ Gourimanohari │   Dharmavati   │
+  │      k1       │       j6       │
+  │   lib(HgSn)   │   can(PbSn)    │
+  ├───────────────┼────────────────┤
+  │  Varunapriya  │   Neetimati    │
+  │      k17      │      k2j6      │
+  │   lib(HgTi)   │   can(PbTi)    │
+  ├───────────────┼────────────────┤
+  │     Bana      │     Rudra      │
+  ├───────────────┼────────────────┤
+  │  Mararanjani  │   Kantamani    │
+  │      j34      │     k12j5      │
+  │   tau(UrAu)   │   pis(PbAu)    │
+  ├───────────────┼────────────────┤
+  │   Charukesi   │ Rishabhapriya  │
+  │      j3       │      j23       │
+  │   tau(AuAu)   │   can(PbAu)    │
+  ├───────────────┼────────────────┤
+  │   Sarasangi   │    Latangi     │
+  │      j6       │       j2       │
+  │   sag(HgAu)   │   can(PbAu)    │
+  ├───────────────┼────────────────┤
+  │ Harikambhoji  │   Vachaspati   │
+  │      n0       │       j3       │
+  │   tau(AuAg)   │   can(PbAg)    │
+  ├───────────────┼────────────────┤
+  │Sankarabharanam│  Mechakalyani  │
+  │      n0       │       n0       │
+  │   sag(HgCu)   │   can(PbFe)    │
+  ├───────────────┼────────────────┤
+  │  Naganandini  │  Chitrambhari  │
+  │      k6       │       k2       │
+  │   sag(HgAg)   │   can(PuFe)    │
+  ├───────────────┼────────────────┤
+  │     Ritu      │     Aditya     │
+  ├───────────────┼────────────────┤
+  │   Yagapriya   │   Sucharitra   │
+  │     j34k6     │     j23k5      │
+  │   tau(NpCu)   │   can(CuNp)    │
+  ├───────────────┼────────────────┤
+  │ Ragavardhini  │ Jyotiswarupini │
+  │     j3k6      │     k16j3      │
+  │   tau(AuUr)   │   tau(CuUr)    │
+  ├───────────────┼────────────────┤
+  │Gangeyabhusani │ Dhatuvardhini  │
+  │     k2j6      │      j2k5      │
+  │   sag(HgMn)   │   can(CuFe)    │
+  ├───────────────┼────────────────┤
+  │ Vagadheeswari │ Nasikabhusani  │
+  │      k6       │      k16       │
+  │   tau(AuSn)   │   tau(PbSn)    │
+  ├───────────────┼────────────────┤
+  │    Sulini     │    Kosalam     │
+  │      k2       │       k5       │
+  │   sag(NpCu)   │   can(NpFe)    │
+  ├───────────────┼────────────────┤
+  │   Chalanata   │  Rasikapriya   │
+  │      k26      │      k25       │
+  │   sag(HgMn)   │   can(PuFe)    │
+  └───────────────┴────────────────┘
+
