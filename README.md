@@ -5,7 +5,7 @@ Veeblefetzer
 
 ### Download
 
-    https://github.com/reidiiius/rubergold.git
+    git clone https://github.com/reidiiius/rubergold.git
 
 ---
 
