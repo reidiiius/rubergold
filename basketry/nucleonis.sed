@@ -3,16 +3,16 @@
 # nucleonis
 
   s/__/-/g
-  s/Fe/i/g
-  s/Hg/w/g
-  s/Pu/p/g
-  s/Sn/z/g
-  s/Mn/m/g
-  s/Ur/u/g
-  s/Cu/v/g
-  s/Pb/l/g
-  s/Au/o/g
-  s/Np/q/g
-  s/Ag/s/g
-  s/Ti/t/g
+  s/Fe/4/g
+  s/Hg/9/g
+  s/Pu/E/g
+  s/Sn/7/g
+  s/Mn/3/g
+  s/Ur/B/g
+  s/Cu/5/g
+  s/Pb/A/g
+  s/Au/8/g
+  s/Np/C/g
+  s/Ag/6/g
+  s/Ti/2/g
 
