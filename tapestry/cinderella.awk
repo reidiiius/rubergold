@@ -12,14 +12,14 @@
     print "\t",$13,$2, $3, $4, $5  # Bn 
   }
 
-  $1 ~ /j2k6y3/ {
-    print "\tj2k6y3"
+  $1 ~ /j236/ {
+    print "\tj236"
       AloeVera()
     print ""
   }
 
-  $1 ~ /k2j5x1/ {
-    print "\tk2j5x1"
+  $1 ~ /k125/ {
+    print "\tk125"
       AloeVera()
     print ""
   }
